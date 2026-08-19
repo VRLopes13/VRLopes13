@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, eu sou o Victor Ricardo! 👋
 
-<!--
-**VRLopes13/VRLopes13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise e Desenvolvimento de Sistemas**, interessado em desenvolvimento, automação e aplicação de tecnologia em negócios. Possuo perfil analítico, proativo e com facilidade para aprender novas ferramentas e tecnologias.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Hard Skills & Tecnologias
+
+- 🐍 **Python:** Programação, lógica e automação de tarefas.
+- 🗄️ **SQL / MySQL:** Modelagem de banco de dados e consultas estruturadas.
+- ☁️ **AWS:** Conceitos de computação em nuvem e infraestrutura.
+- 🤖 **IA Generativa:** Engenharia de prompt e automações utilizando Claude.
+- 🎨 **Figma:** Prototipação rápida, wireframes e desenho de interfaces (UX/UI).
+
+---
+
+### 🧠 Soft Skills
+
+- Raciocínio lógico & Capacidade analítica
+- Resolução de problemas complexos
+- Aprendizado rápido & Adaptabilidade
+- Proatividade direcionada a resultados
+
+---
+
+### 🎓 Formação Acadêmica
+
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas**
+  Universidade Cruzeiro do Sul | *Cursando (Início: 01/2026)*
+
+---
+
+### ✉️ Vamos nos conectar?
+
+- 💼 **LinkedIn:** [victor-ricardo-lopes-de-oliveira-932861408](https://linkedin.com)
+- 📧 **E-mail:** [victorricardo.lopes@hotmail.com](mailto:victorricardo.lopes@hotmail.com)
+- 📍 São Paulo – SP
